@@ -15,6 +15,11 @@ section {
   padding-top: 4rem;
 }
 
+.my-github {
+  text-decoration: none;
+  color: #fff;
+}
+
 /* #nav-foot a:link {
   color: white;
 }
